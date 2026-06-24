@@ -8,10 +8,8 @@
 | 18-06-2026 | Ran the RSTUF ceremony locally, inspected generated metadata files, and registered, signed and published a test artifact.                    |
 | 19-06-2026 | Analyzed metadata JSON files and identified information relevant for visualization.                                                           |
 | 20-06-2026 | Working on understanding metadata relationships and planning visualizer integration.                                                          |
-| 22-06-2026 | Studied the RSTUF's helm chart repo. Basics of helm chart.                                                                                                                                         |
-| 22-06-2026 | TBD                                                                                                                                           |
-| 23-06-2026 | TBD                                                                                                                                           |
-| 24-06-2026 | TBD                                                                                                                                           |
+| 22-06-2026 | Studied the RSTUF's helm chart repo. Basics of helm chart.                                                                                                                                            |
+| 24-06-2026 | Learnt about DTO, MVC, serialization and deserialization                                                                                                                                        |
 | 25-06-2026 | TBD                                                                                                                                           |
 | 26-06-2026 | TBD                                                                                                                                           |
 | 27-06-2026 | TBD                                                                                                                                           |
