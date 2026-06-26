@@ -10,6 +10,8 @@
 | 20-06-2026 | Working on understanding metadata relationships and planning visualizer integration.                                                          |
 | 22-06-2026 | Studied the RSTUF's helm chart repo. Basics of helm chart.                                                                                                                                            |
 | 24-06-2026 | Learnt about DTO, MVC, serialization and deserialization                                                                                                                                        |
-| 25-06-2026 | TBD                                                                                                                                           |
-| 26-06-2026 | TBD                                                                                                                                           |
-| 27-06-2026 | TBD                                                                                                                                           |
+| 25-06-2026 | Worked on where is metadata arrivng from. API calls which are being made                                                                                                                              |
+| 26-06-2026 | Worked on the design of the Metadata visualizer. How I'm gonna show the delegation tree, and information card of each.   |
+| 29-06-2026 | TBD                                                                                                                                           |
+| 30-06-2026 | TBD                                                                                                                                           |
+| 01-07-2026 | TBD                                                                                                                                           |
