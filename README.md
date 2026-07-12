@@ -12,6 +12,16 @@
 | 24-06-2026 | Learnt about DTO, MVC, serialization and deserialization                                                                                                                                        |
 | 25-06-2026 | Worked on where is metadata arrivng from. API calls which are being made                                                                                                                              |
 | 26-06-2026 | Worked on the design of the Metadata visualizer. How I'm gonna show the delegation tree, and information card of each.   |
-| 29-06-2026 | TBD                                                                                                                                           |
-| 30-06-2026 | TBD                                                                                                                                           |
-| 01-07-2026 | TBD                                                                                                                                           |
+| 29-06-2026 | Thought about possible edge cases(56k bins, how it affects the performance). The solution was handeling it by *pagination*.         |
+| 30-06-2026 | Worked on making the visualizer future-proof. (for eg, if we wanna integrate write operations, like artifact additon.)                   |
+| 02-07-2026 | Made visalizer architecture (includes: [Overall architecture](https://github.com/diyasharma12/LFX-RSTUF/blob/main/architecture/architecture1.png),  [backend architecture](https://github.com/diyasharma12/LFX-RSTUF/blob/main/architecture/backendarchitecture.png)    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
+| 02-07-2026 |    |
