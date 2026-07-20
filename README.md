@@ -21,4 +21,5 @@
 | 09-07-2026 | Worked on pagination and possible filters(eg: bins with artifacts only) |
 | 10-07-2026 | Discussion on ceremony and keys in meeting. Starting actual implementation next week.    |
 | 13-07-2026 | Worked on few questions like, (Why is web file so big in docker, what are Async key, and web server metadata)  |
-| 14-07-2026 |    |
+| 15-07-2026 | topic of discussion from the meeting was selling RSTUF visualizer as a service which can be used after a quick setup using umbrella, just like how RSTUF API work. Worked on that|
+| 20-07-2026 | Worked on the implemenation of visualizer as a service.|
