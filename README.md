@@ -23,3 +23,4 @@
 | 13-07-2026 | Worked on few questions like, (Why is web file so big in docker, what are Async key, and web server metadata)  |
 | 15-07-2026 | topic of discussion from the meeting was selling RSTUF visualizer as a service which can be used after a quick setup using umbrella, just like how RSTUF API work. Worked on that|
 | 20-07-2026 | Worked on the implemenation of visualizer as a service.|
+| 23-07-2026 | Worked on the requirements of the components.|
